@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>41C06AB5-0E1C-4D80-99A8-80C920CB3842</string>
+	<key>IDESourceControlProjectName</key>
+	<string>noGit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7FBD1D32-74F7-4691-8505-68AADA858A15</key>
+		<string>https://github.com/evgenyka/noGit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>noGit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7FBD1D32-74F7-4691-8505-68AADA858A15</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/evgenyka/noGit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7FBD1D32-74F7-4691-8505-68AADA858A15</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7FBD1D32-74F7-4691-8505-68AADA858A15</string>
+			<key>IDESourceControlWCCName</key>
+			<string>noGit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
